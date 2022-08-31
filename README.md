@@ -1,4 +1,4 @@
-# House Prediction With Ridge and Lasso Ression
+# House Prediction With Ridge and Lasso Regression
 
 ## Table of Contents
 * [General Info](#general-information)
