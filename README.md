@@ -19,22 +19,22 @@
 ## Conclusions
 - After running the models we came into conclusion that we can use Ridge over Lasso because it has better r^2
 - These are the important predictive variables
-LotArea------------- Lot size in square feet
-OverallQual--------Rates the overall material and finish of the house
-OverallCond-------Rates the overall condition of the house
-YearBuilt-------- ---Original construction date
-BsmtFinSF1-------Type 1 finished square feet
-TotalBsmtSF------Total square feet of basement area
-GrLivArea----------Above grade (ground) living area square feet
-TotRmsAbvGrd---Total rooms above grade (does not include bathrooms)
-Street_Pave-------Pave road access to property
-RoofMatl_Metal--Roof material_Metal
+* LotArea------------- Lot size in square feet
+* OverallQual--------Rates the overall material and finish of the house
+* OverallCond-------Rates the overall condition of the house
+* YearBuilt-------- ---Original construction date
+* BsmtFinSF1-------Type 1 finished square feet
+* TotalBsmtSF------Total square feet of basement area
+* GrLivArea----------Above grade (ground) living area square feet
+* TotRmsAbvGrd---Total rooms above grade (does not include bathrooms)
+* Street_Pave-------Pave road access to property
+* RoofMatl_Metal--Roof material_Metal
 
-- R^2 of Ridge and Lasso for Train and Test dataset
-Ridge
-R2 score(Train)--------- 0.88 ----------------------------0.88
-Lasso
-R2 score(Test)-----------0.87-----------------------------0.86
+## R^2 of Ridge and Lasso for Train and Test dataset
+- Ridge
+- R2 score(Train)--------- 0.88 ----------------------------0.88
+- Lasso
+- R2 score(Test)-----------0.87-----------------------------0.86
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
